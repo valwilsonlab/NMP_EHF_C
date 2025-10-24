@@ -1,0 +1,11 @@
+# workflowr options
+# Version 1.6.2
+
+# The seed to use for random number generation.
+seed: 94526958
+
+# The working directory to build the R Markdown files.
+knit_root_dir: "."
+
+# Disable the automatic reporting of session information.
+sessioninfo: ""
